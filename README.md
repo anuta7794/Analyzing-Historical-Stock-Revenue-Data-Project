@@ -25,4 +25,4 @@ Steps:
 
 Tesla Stock Revenue Dashboard:
 
-(images/Q5 Plot Tesla Stock Graph.png)
+![Question1](images/Q5 Plot Tesla Stock Graph.png)
