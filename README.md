@@ -24,3 +24,5 @@ Steps:
 7. Sharing your Assignment Notebook
 
 Tesla Stock Revenue Dashboard:
+
+(images/Q5 Plot Tesla Stock Graph.png)
