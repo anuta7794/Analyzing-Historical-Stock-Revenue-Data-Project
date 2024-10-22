@@ -20,9 +20,11 @@ Steps:
 5. Tesla Stock and Revenue Dashboard
    
 6. GameStop Stock and Revenue Dashboard
-   
-7. Sharing your Assignment Notebook
 
 Tesla Stock Revenue Dashboard:
 
-![Question1](images/Q5 Plot Tesla Stock Graph.png)
+![Q5 Plot Tesla Stock Graph](https://github.com/user-attachments/assets/d8b9c8ed-eddb-46da-b38e-32d9c84c42ed)
+
+GameStop Revenue Dashboard:
+
+![Q6 Plot GameStop Stock Graph](https://github.com/user-attachments/assets/a5cb9e2c-eb8d-4d36-91df-e09f19d82ae0)
